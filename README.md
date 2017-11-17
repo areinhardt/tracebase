@@ -49,17 +49,17 @@ Downloading the tracebase data set implies that you agree to the following condi
 
 The tracebase data set has initially been presented in the following publication:
 
-Andreas Reinhardt, Paul Baumann, Daniel Burgstahler, Matthias Hollick, Hristo Chonov, Marc Werner, Ralf Steinmetz: *On the Accuracy of Appliance Identification Based on Distributed Load Metering Data*. Proceedings of the 2nd IFIP Conference on Sustainable Internet and ICT for Sustainability (SustainIT), 2012. [<a href="http://ftp.kom.tu-darmstadt.de/papers/RBB+12.pdf">Paper</a>]
+Andreas Reinhardt, Paul Baumann, Daniel Burgstahler, Matthias Hollick, Hristo Chonov, Marc Werner, Ralf Steinmetz: *On the Accuracy of Appliance Identification Based on Distributed Load Metering Data*. Proceedings of the 2nd IFIP Conference on Sustainable Internet and ICT for Sustainability (SustainIT), 2012. [[Paper](http://www.areinhardt.de/wp-content/uploads/2012/10/Reinhardt_SustainIt_2012.pdf)]
 
 More publications about our smart metering activities in general and the use of appliance-level data are listed as follows:
 
-Alaa Alhamoud, Felix Ruettiger, Andreas Reinhardt, Frank Englert, Daniel Burgstahler, Doreen Böhnstedt, Christian Gottron, Ralf Steinmetz: *SMARTENERGY.KOM: An Intelligent System for Energy Saving in Smart Home*. Proceedings of the 3rd IEEE International Workshop on Global Trends in Smart Cities (goSMART), 2014. [<a href="ftp://ftp.kom.tu-darmstadt.de/papers/ARR+14.pdf">Paper</a>] [[Data set](https://www.kom.tu-darmstadt.de/research-results/software-downloads/software/smartenergykom/)]
+Alaa Alhamoud, Felix Ruettiger, Andreas Reinhardt, Frank Englert, Daniel Burgstahler, Doreen Böhnstedt, Christian Gottron, Ralf Steinmetz: *SMARTENERGY.KOM: An Intelligent System for Energy Saving in Smart Home*. Proceedings of the 3rd IEEE International Workshop on Global Trends in Smart Cities (goSMART), 2014. [[Paper](http://www.areinhardt.de/wp-content/uploads/2012/09/Alhamoud_goSMART_2014.pdf)]
 
-Frank Englert, Till Schmitt, Sebastian Kößler, Andreas Reinhardt, Ralf Steinmetz: *How to Autoconfigure Your Smart Home? High Resolution Power Measurements to the Rescue*. Proceedings of the 4th International Conference on Future Energy Systems (ACM e-Energy), 2013. [<a href="ftp://ftp.kom.tu-darmstadt.de/papers/ESK%2B13.pdf">Paper</a>]
+Frank Englert, Till Schmitt, Sebastian Kößler, Andreas Reinhardt, Ralf Steinmetz: *How to Autoconfigure Your Smart Home? High Resolution Power Measurements to the Rescue*. Proceedings of the 4th International Conference on Future Energy Systems (ACM e-Energy), 2013. [[Paper](http://www.areinhardt.de/wp-content/uploads/2012/09/Englert_eEnergy_2013.pdf)]
 
-Andreas Reinhardt, Dominic Burkhardt, Manzil Zaheer, Ralf Steinmetz: *Electric Appliance Classification Based on Distributed High Resolution Current Sensing*. Proceedings of the 7th IEEE International Workshop on Practical Issues in Building Sensor Network Applications (SenseApp), 2012. [<a href="ftp://ftp.kom.tu-darmstadt.de/papers/RBZS12.pdf">Paper</a>]
+Andreas Reinhardt, Dominic Burkhardt, Manzil Zaheer, Ralf Steinmetz: *Electric Appliance Classification Based on Distributed High Resolution Current Sensing*. Proceedings of the 7th IEEE International Workshop on Practical Issues in Building Sensor Network Applications (SenseApp), 2012. [[Paper](http://www.areinhardt.de/wp-content/uploads/2012/10/Reinhardt_SenseApp_2012.pdf)]
 
-Andreas Reinhardt, Dominic Burkhardt, Parag Mogre, Manzil Zaheer, Ralf Steinmetz: *SmartMeter.KOM: A Low-cost Wireless Sensor for Distributed Power Metering*. Proceedings of the 6th IEEE International Workshop on Practical Issues in Building Sensor Network Applications (SenseApp), 2011. [<a href="ftp://ftp.kom.tu-darmstadt.de/papers/RBM11.pdf">Paper</a>]
+Andreas Reinhardt, Dominic Burkhardt, Parag Mogre, Manzil Zaheer, Ralf Steinmetz: *SmartMeter.KOM: A Low-cost Wireless Sensor for Distributed Power Metering*. Proceedings of the 6th IEEE International Workshop on Practical Issues in Building Sensor Network Applications (SenseApp), 2011. [[Paper](http://www.areinhardt.de/wp-content/uploads/2012/09/Reinhardt_SenseApp_2011.pdf)]
 
 # Contact
 
