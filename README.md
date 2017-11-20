@@ -65,4 +65,4 @@ Andreas Reinhardt, Dominic Burkhardt, Parag Mogre, Manzil Zaheer, Ralf Steinmetz
 
 tracebase is a collaborative project of the [Multimedia Communications Lab (KOM)](https://www.kom.tu-darmstadt.de) and the [Secure Mobile Communications Lab (SEEMOO)](https://www.seemoo.tu-darmstadt.de/home-vision/) at Technische Universität Darmstadt, Germany, as well as the [Department of Informatics (IfI)](https://www.in.tu-clausthal.de) at Technische Universität Clausthal, Germany.
 
-Please contact our team at <info@tracebase.org> if you have further questions.
+Please contact our team at info *at* tracebase *dot* org if you have further questions.
